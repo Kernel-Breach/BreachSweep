@@ -1,0 +1,29 @@
+{
+  "app_name": "BreachSweep",
+  "version": "1.0.0",
+  "version_code": 1,
+  "release_date": "2024-01-15",
+  "download_url": "https://github.com/tuusuario/BreachSweep/releases/latest",
+  "changelog": [
+    "Versión beta inicial de BreachSweep",
+    "Motor de seguridad multicapa completo",
+    "Interfaz moderna con temas personalizables",
+    "Sistema social y de logros integrado",
+    "Protección en tiempo real 360°",
+    "Herramientas forenses avanzadas",
+    "Academia de seguridad interactiva"
+  ],
+  "critical_update": false,
+  "min_required_version": "1.0.0",
+  "update_urgency": "low",
+  "checksum_sha256": "",
+  "signature": "",
+  "support_url": "https://discord.gg/9YR98aKpJ",
+  "website_url": "https://github.com/tuusuario/BreachSweep",
+  "compatibility": {
+    "windows_versions": ["10", "11"],
+    "architecture": ["x64"],
+    "net_framework": "not_required",
+    "admin_required": false
+  }
+}
